@@ -17,4 +17,4 @@ bambu offset trick (easy perfect tolerance prints)
 fab academy
 voice looper
 Kicad design library
-
+make the website 3d 
