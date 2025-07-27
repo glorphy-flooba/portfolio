@@ -4,7 +4,7 @@ PLEASE WORK
 ![alt text](<Screenshot 2025-07-04 005921.png>)
 
 
-HIHIHI
+please work 
 ## TODO:
 Good homepage<br>
 esp32-c3 devboard guide<br>
