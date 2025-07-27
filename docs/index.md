@@ -4,17 +4,16 @@ PLEASE WORK
 ![alt text](<Screenshot 2025-07-04 005921.png>)
 
 
-
+HIHIHI
 ## TODO:
-Good homepage
-
-esp32-c3 devboard guide
-ch572 footprint + schematic
-ch572 code guide
-ch572 devboard guide
-laser cutting solder stencils guide
-bambu offset trick (easy perfect tolerance prints)
-fab academy
-voice looper
-Kicad design library
-make the website 3d 
+Good homepage<br>
+esp32-c3 devboard guide<br>
+ch572 footprint + schematic<br>
+ch572 code guide<br>
+ch572 devboard guide<br>
+laser cutting solder stencils guide<br>
+bambu offset trick (easy perfect tolerance prints)<br>
+fab academy<br>
+voice looper<br>
+Kicad design library<br>
+make the website 3d <br>
