@@ -2,6 +2,4 @@ site_name: My Docs
 site_url: https://noahsmith.dev/
 theme:
   name: material
-
-theme:
   custom_dir: docs/overrides

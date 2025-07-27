@@ -1,6 +1,3 @@
-title: Title
-template: home.html
-
 
 # PLEASE WORK
 PLEASE WORK
